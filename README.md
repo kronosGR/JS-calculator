@@ -8,6 +8,6 @@
 
 
 ## Live site
-https://
+https://kronosgr.github.io/JS-calculator/
 
-[![Screenshot](screenshot.png)](https://)
+[![Screenshot](screenshot.png)](https://kronosgr.github.io/JS-calculator/)
